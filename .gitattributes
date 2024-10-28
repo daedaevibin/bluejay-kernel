@@ -11,3 +11,4 @@
 *.img filter=lfs diff=lfs merge=lfs -text
 *.output filter=lfs diff=lfs merge=lfs -text
 *.s filter=lfs diff=lfs merge=lfs -text
+include filter=lfs diff=lfs merge=lfs -text
